@@ -1,0 +1,19 @@
+1;WORD:am;FILE COUNT:2
+-------------------------------
+FILE NAME:file1.txt;WORD COUNT:1
+FILE NAME:file2.txt;WORD COUNT:1
+-------------------------------
+2;WORD:hii;FILE COUNT:1
+-------------------------------
+FILE NAME:file1.txt;WORD COUNT:2
+-------------------------------
+3;WORD:i;FILE COUNT:2
+-------------------------------
+FILE NAME:file1.txt;WORD COUNT:1
+FILE NAME:file2.txt;WORD COUNT:1
+-------------------------------
+4;WORD:naveen;FILE COUNT:2
+-------------------------------
+FILE NAME:file1.txt;WORD COUNT:1
+FILE NAME:file2.txt;WORD COUNT:1
+-------------------------------
